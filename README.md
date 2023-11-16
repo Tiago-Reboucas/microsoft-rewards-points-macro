@@ -12,8 +12,8 @@ Macro created to help collect those daily point in Microsoft Rewards on PC.
 - signal
 
 ### Recomendations
-- Always open the ==Microsoft Edge== first and make sure its on the default ==Edge== page;
-- If there is no more ==Daily Sets== to get extra points just comment the ==lines 93 to 112==;
+- Always open the ***Microsoft Edge*** first and make sure its on the default ***Edge*** page;
+- If there is no more ***Daily Sets*** to get extra points just comment the ***lines 93 to 112***;
 - You can pause the macro at any time after the first search.
 
 ### How to use
