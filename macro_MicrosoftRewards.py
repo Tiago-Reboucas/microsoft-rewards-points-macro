@@ -128,9 +128,9 @@ def check_mouse_position():
         else: return True
 
 ################################# UNCOMMENT THE THREE LINES BELLOW TO CHECK MOUSE POSITION #################################
-# again = True
-# while again is True:
-#     again = check_mouse_position()
+again = True
+while again is True:
+    again = check_mouse_position()
 ##########################################################################################################################
 
 # ----- Positions -----
@@ -157,7 +157,7 @@ closeTab_pos = (554, 15)
 # --------------------
 
 # Set the "search" value
-search = "aaaaabbbbbcccccdddddeeeeefffffgggg"
+search = "tttttuuuuuvvvvvwwwwwxxxxxyyyyyzzzz"
 searches = input(f"Press <{pause_hotkey.upper()}> at any time to pause/continue the macro.\nHow many searches? ")
 
 if searches != "":
