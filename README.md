@@ -2,7 +2,7 @@
 
 Macro criada para ajudar a coletar pontos diários no Microsoft Rewards no PC.
 
-### Modulos Necessários:
+### Módulos Necessários:
 - pyautogui
 - pyperclip
 - time
